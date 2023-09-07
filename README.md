@@ -1,5 +1,5 @@
 hướng dẫn crack office 365 bằng file MAS_AIO.cmd
-1. tải xuống file với tệp zip
+1. clcik vào nút code về download zip
 2. giải nén file vừa tải
 3. mở file vừa giải nén và chọn file MAS_AIO.cmd
 4. mở file MAS_AIO.cmd với quyền administrators
